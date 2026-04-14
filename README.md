@@ -1,4 +1,16 @@
-# 💫 About Me:
+# About Me:
+Hi, I'm Judah 👋
+🚀 Robotics & AI Engineer
+🔍 Building real-world AI solutions
+
+Projects:
+- Smart Obstacle Detection System
+- AI Decision Assistant
+- Diabetes Prediction App
+
+Tech Stack:
+Python | React | OpenCV | YOLO | Flask
+
 Full-stack developer and robotics engineer skilled in building end-to-end software and intelligent automation systems. Experienced in designing scalable web applications, integrating hardware–software interfaces, and developing robotic solutions for real-world problems. Adept at problem-solving, system optimization, and delivering innovative tech solutions across both digital and physical domains.
 
 
